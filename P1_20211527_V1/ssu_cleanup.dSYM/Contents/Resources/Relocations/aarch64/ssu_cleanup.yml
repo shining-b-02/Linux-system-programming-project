@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/bagchanghyeon/ssu/리눅스시스템프로그래밍/설계1/P1_20211527_V1/ssu_cleanup"
+relocations:     []
+...
